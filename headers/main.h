@@ -4,9 +4,9 @@
 #include <stdio.h>
 #include <SDL2/SDL.h>
 #include "app_math.h"
-#include "colors.h"
+#include "color.h"
 #include "raycaster.h"
-#include "renderer.h"
+#include "renders.h"
 
 /* Dimensional constants */
 #define SCREEN_WIDTH 640

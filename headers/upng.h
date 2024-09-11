@@ -55,3 +55,4 @@ const unsigned char *upng_get_buffer(const upng_t *upng);
 unsigned int upng_get_size(const upng_t *upng);
 
 #endif /*defined(UPNG_H)*/
+

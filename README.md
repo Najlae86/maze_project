@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/19409df3-28d7-4912-be27-174c50525aab)
 
 ##About the Project
+
 	My love of puzzles and challenges inspired this project. I've always enjoyed the sense of accomplishment after solving a tricky puzzle, so I decided to create a 3D maze game to bring that feeling to others. This project started as a portfolio project and has evolved into something I'm truly proud of.
 
 ##Features
@@ -25,7 +26,8 @@ Experience endless fun with randomly generated mazes each time you play, ensurin
 
 Check out the code for this project at https://github.com/Najlae86/maze_project
 
-## Build and Run Instructions
+##Build and run instructions
+
 To build and run this project, follow these steps:
 1. Clone this repository to your local machine.
 	https://github.com/Najlae86/maze_project.git

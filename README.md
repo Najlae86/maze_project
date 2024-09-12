@@ -2,7 +2,8 @@
 
 ##About the Project
 
-	My love of puzzles and challenges inspired this project. I've always enjoyed the sense of accomplishment after solving a tricky puzzle, so I decided to create a 3D maze game to bring that feeling to others. This project started as a portfolio project and has evolved into something I'm truly proud of.
+My love for puzzles inspired me to work on this project, I've always enjoyed the sense of accomplishment after solving a tricky puzzle, so I decided to create this 3D maze game to bring that feeling to others.
+This project started as a portfolio project and has evolved into something I'm truly proud of.
 
 ##Features
 

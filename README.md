@@ -51,14 +51,15 @@ To build and run this project, follow these steps:
 
 https://github.com/user-attachments/assets/5a1c1f4b-2d72-47bf-87f7-75985123af47
 
-## Usage
+##usage
 
 The 3D Maze Game is a simple yet challenging game where players must navigate through a variety of mazes, each with increasing levels of difficulty. 
 
-**Controls:**  
+**controls:
+
 Use arrow keys or WASD to move through the maze. The objective is to find the exit in the shortest time possible.
 
-## Contributing
+##contributions:
 
 Contributions are welcome! If you'd like to improve the game, please follow these steps:
 
@@ -68,6 +69,8 @@ Contributions are welcome! If you'd like to improve the game, please follow thes
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
+##Licence
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+

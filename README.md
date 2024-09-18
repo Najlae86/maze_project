@@ -5,6 +5,12 @@
 My love for puzzles inspired me to work on this project, I've always enjoyed the sense of accomplishment after solving a tricky puzzle, so I decided to create this 3D maze game to bring that feeling to others.
 This project started as a portfolio project and has evolved into something I'm truly proud of.
 
+Explore the code and features on the GitHub repository: https://github.com/Najlae86/maze_project
+
+Read about the project in : https://najlae86.github.io/maze_blog/
+
+Check out my LinkedIn profile : https://www.linkedin.com/in/najlae-a-85a646202/
+
 ##Features
 
 ![image](https://github.com/user-attachments/assets/9ac428f0-5b84-415e-86f2-3e8012c54cb9)
@@ -43,6 +49,25 @@ To build and run this project, follow these steps:
 4. Run the project using the resulting executable file.
 	./maze
 
-
 https://github.com/user-attachments/assets/5a1c1f4b-2d72-47bf-87f7-75985123af47
 
+## Usage
+
+The 3D Maze Game is a simple yet challenging game where players must navigate through a variety of mazes, each with increasing levels of difficulty. 
+
+**Controls:**  
+Use arrow keys or WASD to move through the maze. The objective is to find the exit in the shortest time possible.
+
+## Contributing
+
+Contributions are welcome! If you'd like to improve the game, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
